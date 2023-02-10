@@ -1,2 +1,2 @@
 # Mixtape-Causal-Inference-
-Vou aproveitar esse tempo para entender melhor os conceitos de Inferência Causal. Eu deixarei aqui todos os meus códigos, usando R e Python.
+Estou estudando o livro Mixtape sobre Inferência Causal do Scott Cunnighan, e eu deixarei aqui todos os meus códigos usando R e Python.
